@@ -150,3 +150,14 @@ Then on our `foo` service we tell it to use this rule, as well as telling Traefi
     - traefik.http.services.foo.loadbalancer.serverstransport=ignorecert
     - traefik.http.services.foo.loadbalancer.server.scheme=https
 ```
+
+## I want to run linuxserver.io containers without root, can I? {#rootless}
+
+Our PUID and PGID environment variables predates Docker's support for the `--user` argument, and the init system we use [s6-overlay](https://github.com/just-containers/s6-overlay) requires root for some of the commands we use.
+
+The applications in our containers already run without root, as we are dropping privileges when we start them. The act of dropping privileges requires root.
+
+S6-Overlay has some tips to run it's init in a rootless context, this is not something we offer support for, but we will link them here, for your convince.
+
+- It's overall [--user catch](https://github.com/just-containers/s6-overlay#user-directive)
+- [Read-only filesystem](https://github.com/just-containers/s6-overlay#read-only-root-filesystem)
