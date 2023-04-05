@@ -431,6 +431,16 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://docs.linuxserver.io/images/docker-github-desktop/</loc>
+         <lastmod>2023-04-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.linuxserver.io/images/docker-gitqlient/</loc>
+         <lastmod>2023-04-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://docs.linuxserver.io/images/docker-gmail-order-bot/</loc>
          <lastmod>2023-04-05</lastmod>
          <changefreq>daily</changefreq>
