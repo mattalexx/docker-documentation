@@ -242,6 +242,8 @@ rm<span class=w> </span>latest.tar.gz
 
 <span class=w>    </span><span class=kn>server_name</span><span class=w> </span><span class=s>myfirstsubdomain.linuxserver-test.com</span><span class=p>;</span><span class=w> </span><span class=c1># PUT YOUR DOMAIN HERE</span>
 
+<span class=w>    </span><span class=kn>include</span><span class=w> </span><span class=s>/config/nginx/ssl.conf</span><span class=p>;</span>
+
 <span class=w>    </span><span class=kn>root</span><span class=w> </span><span class=s>/config/sites/myfirstsubdomain.linuxserver-test.com/www</span><span class=p>;</span><span class=w> </span><span class=c1># CREATE THIS DIRECTORY STRUCTURE AND PUT WORDPRESS FILES HERE</span>
 <span class=w>    </span><span class=kn>index</span><span class=w> </span><span class=s>index.html</span><span class=w> </span><span class=s>index.htm</span><span class=w> </span><span class=s>index.php</span><span class=p>;</span>
 
@@ -266,6 +268,8 @@ rm<span class=w> </span>latest.tar.gz
 <span class=w>    </span><span class=kn>listen</span><span class=w> </span><span class=s>[::]:443</span><span class=w> </span><span class=s>ssl</span><span class=w> </span><span class=s>http2</span><span class=p>;</span><span class=w> </span><span class=c1># REMOVED default_server</span>
 
 <span class=w>    </span><span class=kn>server_name</span><span class=w> </span><span class=s>mysecondsubdomain.linuxserver-test.com</span><span class=p>;</span><span class=w> </span><span class=c1># PUT YOUR DOMAIN HERE</span>
+
+<span class=w>    </span><span class=kn>include</span><span class=w> </span><span class=s>/config/nginx/ssl.conf</span><span class=p>;</span>
 
 <span class=w>    </span><span class=kn>root</span><span class=w> </span><span class=s>/config/sites/mysecondsubdomain.linuxserver-test.com/www</span><span class=p>;</span><span class=w> </span><span class=c1># CREATE THIS DIRECTORY STRUCTURE AND PUT WORDPRESS FILES HERE</span>
 <span class=w>    </span><span class=kn>index</span><span class=w> </span><span class=s>index.html</span><span class=w> </span><span class=s>index.htm</span><span class=w> </span><span class=s>index.php</span><span class=p>;</span>
