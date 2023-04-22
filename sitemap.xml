@@ -1026,6 +1026,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://docs.linuxserver.io/images/docker-webcord/</loc>
+         <lastmod>2023-04-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://docs.linuxserver.io/images/docker-webgrabplus/</loc>
          <lastmod>2023-04-22</lastmod>
          <changefreq>daily</changefreq>
