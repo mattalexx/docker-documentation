@@ -216,6 +216,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://docs.linuxserver.io/images/docker-build-agent/</loc>
+         <lastmod>2023-05-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://docs.linuxserver.io/images/docker-calibre-web/</loc>
          <lastmod>2023-05-01</lastmod>
          <changefreq>daily</changefreq>
