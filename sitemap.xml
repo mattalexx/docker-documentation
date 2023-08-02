@@ -11,6 +11,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://docs.linuxserver.io/finances/</loc>
+         <lastmod>2023-08-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://docs.linuxserver.io/general/awesome-lsio/</loc>
          <lastmod>2023-08-02</lastmod>
          <changefreq>daily</changefreq>
