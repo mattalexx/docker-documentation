@@ -561,6 +561,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://docs.linuxserver.io/images/docker-kimai/</loc>
+         <lastmod>2023-08-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://docs.linuxserver.io/images/docker-lazylibrarian/</loc>
          <lastmod>2023-08-10</lastmod>
          <changefreq>daily</changefreq>
