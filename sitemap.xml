@@ -1056,6 +1056,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://docs.linuxserver.io/images/docker-unifi-network-application/</loc>
+         <lastmod>2023-09-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://docs.linuxserver.io/images/docker-unrar/</loc>
          <lastmod>2023-09-06</lastmod>
          <changefreq>daily</changefreq>
