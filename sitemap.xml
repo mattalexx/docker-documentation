@@ -11,6 +11,246 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://docs.linuxserver.io/deprecated_images/docker-airsonic/</loc>
+         <lastmod>2023-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.linuxserver.io/deprecated_images/docker-baseimage-alpine-python/</loc>
+         <lastmod>2023-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.linuxserver.io/deprecated_images/docker-baseimage-cloud9/</loc>
+         <lastmod>2023-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.linuxserver.io/deprecated_images/docker-baseimage-guacgui/</loc>
+         <lastmod>2023-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.linuxserver.io/deprecated_images/docker-baseimage-gui/</loc>
+         <lastmod>2023-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.linuxserver.io/deprecated_images/docker-baseimage-mono/</loc>
+         <lastmod>2023-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.linuxserver.io/deprecated_images/docker-baseimage-rdesktop-web/</loc>
+         <lastmod>2023-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.linuxserver.io/deprecated_images/docker-baseimage-rdesktop/</loc>
+         <lastmod>2023-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.linuxserver.io/deprecated_images/docker-booksonic/</loc>
+         <lastmod>2023-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.linuxserver.io/deprecated_images/docker-cardigann/</loc>
+         <lastmod>2023-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.linuxserver.io/deprecated_images/docker-chevereto/</loc>
+         <lastmod>2023-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.linuxserver.io/deprecated_images/docker-clarkson/</loc>
+         <lastmod>2023-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.linuxserver.io/deprecated_images/docker-cloud9/</loc>
+         <lastmod>2023-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.linuxserver.io/deprecated_images/docker-codiad/</loc>
+         <lastmod>2023-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.linuxserver.io/deprecated_images/docker-codimd/</loc>
+         <lastmod>2023-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.linuxserver.io/deprecated_images/docker-couchpotato/</loc>
+         <lastmod>2023-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.linuxserver.io/deprecated_images/docker-docker-compose/</loc>
+         <lastmod>2023-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.linuxserver.io/deprecated_images/docker-gazee/</loc>
+         <lastmod>2023-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.linuxserver.io/deprecated_images/docker-gmail-order-bot/</loc>
+         <lastmod>2023-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.linuxserver.io/deprecated_images/docker-guacd/</loc>
+         <lastmod>2023-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.linuxserver.io/deprecated_images/docker-hydra/</loc>
+         <lastmod>2023-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.linuxserver.io/deprecated_images/docker-hydra2/</loc>
+         <lastmod>2023-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.linuxserver.io/deprecated_images/docker-ipfs/</loc>
+         <lastmod>2023-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.linuxserver.io/deprecated_images/docker-kanzi/</loc>
+         <lastmod>2023-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.linuxserver.io/deprecated_images/docker-letsencrypt/</loc>
+         <lastmod>2023-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.linuxserver.io/deprecated_images/docker-libresonic/</loc>
+         <lastmod>2023-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.linuxserver.io/deprecated_images/docker-musicbrainz/</loc>
+         <lastmod>2023-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.linuxserver.io/deprecated_images/docker-muximux/</loc>
+         <lastmod>2023-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.linuxserver.io/deprecated_images/docker-mylar/</loc>
+         <lastmod>2023-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.linuxserver.io/deprecated_images/docker-nano-discord-bot/</loc>
+         <lastmod>2023-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.linuxserver.io/deprecated_images/docker-nntp2nntp/</loc>
+         <lastmod>2023-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.linuxserver.io/deprecated_images/docker-nzbget/</loc>
+         <lastmod>2023-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.linuxserver.io/deprecated_images/docker-openvpn-as/</loc>
+         <lastmod>2023-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.linuxserver.io/deprecated_images/docker-organizr/</loc>
+         <lastmod>2023-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.linuxserver.io/deprecated_images/docker-paperless-ng/</loc>
+         <lastmod>2023-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.linuxserver.io/deprecated_images/docker-paperless-ngx/</loc>
+         <lastmod>2023-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.linuxserver.io/deprecated_images/docker-papermerge/</loc>
+         <lastmod>2023-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.linuxserver.io/deprecated_images/docker-photoshow/</loc>
+         <lastmod>2023-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.linuxserver.io/deprecated_images/docker-pixapop/</loc>
+         <lastmod>2023-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.linuxserver.io/deprecated_images/docker-pydio/</loc>
+         <lastmod>2023-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.linuxserver.io/deprecated_images/docker-pyload/</loc>
+         <lastmod>2023-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.linuxserver.io/deprecated_images/docker-requestrr/</loc>
+         <lastmod>2023-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.linuxserver.io/deprecated_images/docker-rutorrent/</loc>
+         <lastmod>2023-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.linuxserver.io/deprecated_images/docker-scrutiny/</loc>
+         <lastmod>2023-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.linuxserver.io/deprecated_images/docker-shout-irc/</loc>
+         <lastmod>2023-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.linuxserver.io/deprecated_images/docker-sickrage/</loc>
+         <lastmod>2023-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.linuxserver.io/deprecated_images/docker-taisun/</loc>
+         <lastmod>2023-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://docs.linuxserver.io/deprecated_images/docker-tester/</loc>
+         <lastmod>2023-10-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://docs.linuxserver.io/general/awesome-lsio/</loc>
          <lastmod>2023-10-14</lastmod>
          <changefreq>daily</changefreq>
@@ -86,11 +326,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.linuxserver.io/images/docker-airsonic/</loc>
-         <lastmod>2023-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://docs.linuxserver.io/images/docker-apprise-api/</loc>
          <lastmod>2023-10-14</lastmod>
          <changefreq>daily</changefreq>
@@ -121,22 +356,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.linuxserver.io/images/docker-baseimage-alpine-python/</loc>
-         <lastmod>2023-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://docs.linuxserver.io/images/docker-baseimage-alpine/</loc>
          <lastmod>2023-10-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.linuxserver.io/images/docker-baseimage-arch/</loc>
-         <lastmod>2023-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.linuxserver.io/images/docker-baseimage-cloud9/</loc>
          <lastmod>2023-10-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -151,32 +376,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.linuxserver.io/images/docker-baseimage-guacgui/</loc>
-         <lastmod>2023-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.linuxserver.io/images/docker-baseimage-gui/</loc>
-         <lastmod>2023-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://docs.linuxserver.io/images/docker-baseimage-kasmvnc/</loc>
-         <lastmod>2023-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.linuxserver.io/images/docker-baseimage-mono/</loc>
-         <lastmod>2023-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.linuxserver.io/images/docker-baseimage-rdesktop-web/</loc>
-         <lastmod>2023-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.linuxserver.io/images/docker-baseimage-rdesktop/</loc>
          <lastmod>2023-10-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -206,11 +406,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.linuxserver.io/images/docker-booksonic/</loc>
-         <lastmod>2023-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://docs.linuxserver.io/images/docker-bookstack/</loc>
          <lastmod>2023-10-14</lastmod>
          <changefreq>daily</changefreq>
@@ -236,17 +431,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.linuxserver.io/images/docker-cardigann/</loc>
-         <lastmod>2023-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://docs.linuxserver.io/images/docker-changedetection.io/</loc>
-         <lastmod>2023-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.linuxserver.io/images/docker-chevereto/</loc>
          <lastmod>2023-10-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -261,37 +446,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.linuxserver.io/images/docker-clarkson/</loc>
-         <lastmod>2023-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.linuxserver.io/images/docker-cloud9/</loc>
-         <lastmod>2023-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://docs.linuxserver.io/images/docker-code-server/</loc>
          <lastmod>2023-10-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.linuxserver.io/images/docker-codiad/</loc>
-         <lastmod>2023-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.linuxserver.io/images/docker-codimd/</loc>
-         <lastmod>2023-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://docs.linuxserver.io/images/docker-cops/</loc>
-         <lastmod>2023-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.linuxserver.io/images/docker-couchpotato/</loc>
          <lastmod>2023-10-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -337,11 +497,6 @@
     </url>
     <url>
          <loc>https://docs.linuxserver.io/images/docker-doc-builder/</loc>
-         <lastmod>2023-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.linuxserver.io/images/docker-docker-compose/</loc>
          <lastmod>2023-10-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -441,11 +596,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.linuxserver.io/images/docker-gazee/</loc>
-         <lastmod>2023-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://docs.linuxserver.io/images/docker-github-desktop/</loc>
          <lastmod>2023-10-14</lastmod>
          <changefreq>daily</changefreq>
@@ -456,22 +606,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.linuxserver.io/images/docker-gmail-order-bot/</loc>
-         <lastmod>2023-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://docs.linuxserver.io/images/docker-grav/</loc>
          <lastmod>2023-10-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.linuxserver.io/images/docker-grocy/</loc>
-         <lastmod>2023-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.linuxserver.io/images/docker-guacd/</loc>
          <lastmod>2023-10-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -516,21 +656,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.linuxserver.io/images/docker-hydra/</loc>
-         <lastmod>2023-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.linuxserver.io/images/docker-hydra2/</loc>
-         <lastmod>2023-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.linuxserver.io/images/docker-ipfs/</loc>
-         <lastmod>2023-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://docs.linuxserver.io/images/docker-jackett/</loc>
          <lastmod>2023-10-14</lastmod>
          <changefreq>daily</changefreq>
@@ -542,11 +667,6 @@
     </url>
     <url>
          <loc>https://docs.linuxserver.io/images/docker-jenkins-builder/</loc>
-         <lastmod>2023-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.linuxserver.io/images/docker-kanzi/</loc>
          <lastmod>2023-10-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -581,17 +701,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.linuxserver.io/images/docker-letsencrypt/</loc>
-         <lastmod>2023-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://docs.linuxserver.io/images/docker-libreoffice/</loc>
-         <lastmod>2023-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.linuxserver.io/images/docker-libresonic/</loc>
          <lastmod>2023-10-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -656,32 +766,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.linuxserver.io/images/docker-musicbrainz/</loc>
-         <lastmod>2023-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.linuxserver.io/images/docker-muximux/</loc>
-         <lastmod>2023-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.linuxserver.io/images/docker-mylar/</loc>
-         <lastmod>2023-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://docs.linuxserver.io/images/docker-mylar3/</loc>
          <lastmod>2023-10-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.linuxserver.io/images/docker-mysql-workbench/</loc>
-         <lastmod>2023-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.linuxserver.io/images/docker-nano-discord-bot/</loc>
          <lastmod>2023-10-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -721,16 +811,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.linuxserver.io/images/docker-nntp2nntp/</loc>
-         <lastmod>2023-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.linuxserver.io/images/docker-nzbget/</loc>
-         <lastmod>2023-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://docs.linuxserver.io/images/docker-nzbhydra2/</loc>
          <lastmod>2023-10-14</lastmod>
          <changefreq>daily</changefreq>
@@ -746,22 +826,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.linuxserver.io/images/docker-openvpn-as/</loc>
-         <lastmod>2023-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://docs.linuxserver.io/images/docker-openvscode-server/</loc>
          <lastmod>2023-10-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://docs.linuxserver.io/images/docker-opera/</loc>
-         <lastmod>2023-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.linuxserver.io/images/docker-organizr/</loc>
          <lastmod>2023-10-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -781,26 +851,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.linuxserver.io/images/docker-paperless-ng/</loc>
-         <lastmod>2023-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.linuxserver.io/images/docker-paperless-ngx/</loc>
-         <lastmod>2023-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.linuxserver.io/images/docker-papermerge/</loc>
-         <lastmod>2023-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.linuxserver.io/images/docker-photoshow/</loc>
-         <lastmod>2023-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://docs.linuxserver.io/images/docker-phpmyadmin/</loc>
          <lastmod>2023-10-14</lastmod>
          <changefreq>daily</changefreq>
@@ -812,11 +862,6 @@
     </url>
     <url>
          <loc>https://docs.linuxserver.io/images/docker-piwigo/</loc>
-         <lastmod>2023-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.linuxserver.io/images/docker-pixapop/</loc>
          <lastmod>2023-10-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -851,17 +896,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.linuxserver.io/images/docker-pydio/</loc>
-         <lastmod>2023-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://docs.linuxserver.io/images/docker-pyload-ng/</loc>
-         <lastmod>2023-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.linuxserver.io/images/docker-pyload/</loc>
          <lastmod>2023-10-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -921,11 +956,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.linuxserver.io/images/docker-requestrr/</loc>
-         <lastmod>2023-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://docs.linuxserver.io/images/docker-resilio-sync/</loc>
          <lastmod>2023-10-14</lastmod>
          <changefreq>daily</changefreq>
@@ -936,27 +966,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.linuxserver.io/images/docker-rutorrent/</loc>
-         <lastmod>2023-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://docs.linuxserver.io/images/docker-sabnzbd/</loc>
          <lastmod>2023-10-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.linuxserver.io/images/docker-scrutiny/</loc>
-         <lastmod>2023-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://docs.linuxserver.io/images/docker-series-troxide/</loc>
-         <lastmod>2023-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.linuxserver.io/images/docker-shout-irc/</loc>
          <lastmod>2023-10-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -967,11 +982,6 @@
     </url>
     <url>
          <loc>https://docs.linuxserver.io/images/docker-sickgear/</loc>
-         <lastmod>2023-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.linuxserver.io/images/docker-sickrage/</loc>
          <lastmod>2023-10-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -1026,17 +1036,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.linuxserver.io/images/docker-taisun/</loc>
-         <lastmod>2023-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://docs.linuxserver.io/images/docker-tautulli/</loc>
-         <lastmod>2023-10-14</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://docs.linuxserver.io/images/docker-tester/</loc>
          <lastmod>2023-10-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
