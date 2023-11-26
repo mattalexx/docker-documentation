@@ -451,6 +451,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://docs.linuxserver.io/images/docker-cura/</loc>
+         <lastmod>2023-11-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://docs.linuxserver.io/images/docker-daapd/</loc>
          <lastmod>2023-11-26</lastmod>
          <changefreq>daily</changefreq>
