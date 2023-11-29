@@ -556,6 +556,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://docs.linuxserver.io/images/docker-faster-whisper/</loc>
+         <lastmod>2023-11-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://docs.linuxserver.io/images/docker-feed2toot/</loc>
          <lastmod>2023-11-29</lastmod>
          <changefreq>daily</changefreq>
